@@ -1,0 +1,6 @@
+0 lion
+1 crocodile
+2 dog
+3 snakes
+4 giraffe
+5 cat
